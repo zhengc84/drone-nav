@@ -1,0 +1,6 @@
+slam_toolbox:
+  ros__parameters:
+    scan_topic: /world/default/model/x500_lidar_front_0/link/lidar_sensor_link/sensor/lidar/scan
+    use_sim_time: true
+    mode: "mapping"
+    map_frame: map
